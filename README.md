@@ -4,7 +4,7 @@
 React, Three.js, Cannon.js, Recoil
 
 ### 1. 환경 맵 구현
-three.js에서 3D 배경을 구현하기 위해서는 .hdri 파일을 cubemap 형태로 변환해야합니다.
+three.js에서 3D 배경을 구현하기 위해서는 .hdri 파일을 cubemap 형태로 변환해야합니다.<br/>
 무료 hdri 다운로드 링크 https://open3dlab.com/project/70/
 hdri to cubemap 변환 사이트 링크 https://matheowis.github.io/HDRI-to-CubeMap/
 
